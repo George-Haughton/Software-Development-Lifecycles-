@@ -1,4 +1,4 @@
-## Software-Development-Lifecycles hi
+## Software-Development-Lifecycles
 
 ### 1. Lifecycles
 
