@@ -64,6 +64,7 @@ Our first meeting with our client was the 2nd of October 2017, this is where ZSL
 We wrote down all of the adapting feedback we got which included what ZSL would like us to change. An example of a change they wanted was a change to the main game screen. Our idea was a maze where the player/child would control a small animal relating to the habitat and would manoeuvre around the maze and try to escape. Our client (ZSL) liked the idea but preferred if we focused the gameplay on the chain more. So we implemented their ideas into ours and changed completely how our main game screen looked:
 
 Here is the difference after speaking to ZSL:
+
 Before:
 ![](https://user-images.githubusercontent.com/31927590/33013769-13a112ea-cddd-11e7-9a8e-c43e99f727f8.png)
 
