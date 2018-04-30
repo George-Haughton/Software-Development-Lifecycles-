@@ -3,7 +3,7 @@
 ### 1. Lifecycles
 
 
-#### 1.1 Waterfall
+#### 1.1 Waterfall (sequential)
 Waterfall development has specific goals for each phase of development. Each phase has to be completed before moving on to the next. At the end of each phase, a review is taken place to determine if the project is on the right path and whether we should continue or discard the whole thing. There are 6 phases of the Waterfall model and they are: requirements, which are where the potential requirements of the application are methodically analysed and written down in a specification document that serves as the basis for all future development. Secondly is, Analysis and during this phase the system is reviewed/analysed so we can properly generate the business logic and models that will be used later in the actual application. Next is the design phase this stage covers technical design requirements such as data layers, services and programming languages. Coding is next where all of the core coding is written implementing all models, business logic and service integrations that were specified in the prior stages. The next phase is the testing phase where beta testers and all other testers systematically discover and report any issues they find with the application. Lastly, is the Operations phase, the operations stage entails not just the deployment of the application, but also subsequent support and maintenance that may be required to keep it functional and up-to-date.
 
 ##### Advantages 
@@ -14,7 +14,7 @@ A few disadvantages of the Waterfall model are it is not good for projects that 
 
 A good time to use this model is when the product definition is stable. Finally, the perfect project to use this lifecycle in is a small/short project.
 
-#### 1.2 Prototype
+#### 1.2 Prototype (sequential)
 The main idea of a Prototype model is to create a throwaway prototype to understand the requirements of the project. The prototype is develop based on the requirements we know. By using this model, the developers can get a ‘feel’ of the system; since the interactions with prototype can enable the client to better understand the requirements of the desired system. 
 
 ##### Advantages 
@@ -25,7 +25,7 @@ The disadvantages of Prototyping are: practically this methodology might increas
 
 A couple projects that would benefit and give the best result when using the prototype model, would be when the desired system of the project needs to have a lot of interaction with the end users. Normally web interfaces and online systems both have a lot of user interaction so these types of projects would benefit using the prototype model.
 
-#### 1.3 Spiral
+#### 1.3 Spiral (iterative)
 The Spiral model emphasises the importance of risk analysis. There are four main phases of The Spiral model which include: the planning phase things like Business Requirement Specifications and System Requirement specifications are gathered to make sure you know the ins and outs and what needs to be done/happen within a project. The risk analysis stage which for the Spiral model is one of the most important phases. Within this phase a process is done to identify certain risks you may occur during a project and alternate solutions you can take to avoid these risks or make them easier to deal with. Towards the end of the Risk Analysis phase a prototype will then be produced to help further with finding any bugs, problems and to see how the prototype looks/feels. Thirdly, we have the engineering phase which is where software is developed and a lot of testing is done within the software to make sure it properly works. Finally, is the evaluation phases where the customer will evaluate the output of the project to date before the project continues to the next spiral. 
 
 ##### Advantages
@@ -36,7 +36,7 @@ With advantages come disadvantages, these being: it can be a very costly model t
 
 A few examples of when you should use the Spiral Model, would be when cost and risk evaluation is important within a project, for medium to high risk projects, when the user is unsure of the needs they want for their project, when their requirements are complex and finally for a new product line.
 
-#### 1.4 V Model
+#### 1.4 V Model (iterative)
 In essence the V-model is about verification and validation.  It is an execution of processes all on a sequential path, very similar to the waterfall model. Additionally, each stage must be completed before moving onto the next and when it comes to the testing within the project it is done in parallel with a corresponding phase of development. The various phases of the V-model are as followed: firstly, we have the requirements phase which is where the requirements are gathered for the project and a system test will be created; this test plan will focus on meeting the functionality specified in the requirements gathering. Secondly, we have the HLD (high-level design) phase which will provide an overview of the project aspects such as: solution, platform, system, product and service/process also the HLD phase focuses on system design and its architecture. Lastly, with the HLD phase to test the software’s ability to work together an integration test is created. Next we have the LLD (low-level design) phase this phase will define the logic of each and every component of the system, things like the class diagram, the methods and its relation between classes with also come under the LLC phase. More importantly the software components are designed. The next stage is arguably the most important phase out of them all, as it contains the key and core parts of the project, the coding. This is called the implementation stage this stage is very similar to the next stage which is called coding. The implementation stage is where most of the coding takes place and once everyone is happy and the coding is finished the project will move further up the model which is where the test plans that were made earlier are used. Although, most of the coding starts within the implementation stage the last stage is named Coding and within this stage the module design will be converted into code by the developers within the team. Additionally, the unit testing of the project is done by the developers on the code they have written. 
 
 ##### Advantages
